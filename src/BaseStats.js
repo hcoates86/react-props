@@ -7,3 +7,6 @@ function BaseStats() {
         </div>
     )
 }
+
+
+export default BaseStats;
